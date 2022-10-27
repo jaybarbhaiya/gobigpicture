@@ -1,0 +1,6 @@
+1 ERROR This is the first something is wrong
+2 WARNING This is the first something fine
+3 ERROR This is the second something wrong
+4 INFO This is the first info log
+5 CRITICAL This is the first critical log
+6 DEBUG This is the first debug log
